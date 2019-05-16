@@ -46,6 +46,9 @@ public class MainActivity extends AppCompatActivity {
             case R.id.mConfiguracao:
                 startActivity(new Intent(MainActivity.this, Configuracoes_Activity.class));
                 break;
+            case R.id.mTempo:
+                startActivity(new Intent(MainActivity.this, Tempo_Activity.class));
+                break;
 
         }
 

@@ -25,5 +25,10 @@
         android:icon="@drawable/ic_settings_dp"
         android:title="Configurações"
         app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/mTempo"
+        android:icon="@drawable/ic_cloud_dp"
+        android:title="Tempo"
+        app:showAsAction="ifRoom" />
 
 </menu>
